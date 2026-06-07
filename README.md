@@ -13,7 +13,6 @@ I combine a solid background in Forensic Sciences (ongoing MSc at FMUP) with tec
 | Cybersecurity Fundamentals | 🟢 In progress | 3 / 180 | Cisco Junior Analyst + ISC2 CC | 2% |
 | Digital Forensics | 🟡 Planned | 0 / 180 | DFIR + OSINT + Autopsy | 0% |
 
-* **Current day:** #5 (May 19, 2026)
 * **Commitment:** 1h30/day, 6 days/week
 
 ---
