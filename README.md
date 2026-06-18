@@ -10,7 +10,7 @@ I combine a solid background in Forensic Sciences (ongoing MSc at FMUP) with tec
 📊 **Current Progress**
 | Area | Status | Days (goal) | Main Focus | Progress |
 | :--- | :--- | :--- | :--- | :--- |
-| Cybersecurity Fundamentals | 🟢 In progress | 3 / 180 | Cisco Junior Analyst + ISC2 CC | 2% |
+| Cybersecurity Fundamentals | 🟢 In progress | 21 / 180 | Cisco Junior Analyst + ISC2 CC | 2% |
 | Digital Forensics | 🟡 Planned | 0 / 180 | DFIR + OSINT + Autopsy | 0% |
 
 * **Commitment:** 1h30/day, 6 days/week
@@ -19,7 +19,7 @@ I combine a solid background in Forensic Sciences (ongoing MSc at FMUP) with tec
 
 🔒 **Phase 1 – Cybersecurity Fundamentals (180 days) ⭐ PRIORITY**
 
-* **Status:** In progress (Day 3/180)
+* **Status:** In progress (Day 21/180)
 * **Objective:** Develop solid technical skills in information security to support specialisation in Digital Forensics.
 
 ### Main Training
