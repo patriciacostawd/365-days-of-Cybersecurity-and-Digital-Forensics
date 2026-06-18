@@ -100,9 +100,17 @@
   * Mapped out the next practical steps by enrolling in 4 specialized Udemy courses: "Digital Forensics Investigation Process", "Computer Forensics: Hands-on Lab", "Network Forensics", and "Hard Disk Forensics".
 * **Key Takeaway:** Hit the 2-week mark of the challenge by successfully pivoting from high-level security concepts into specialized DFIR (Digital Forensics & Incident Response) training.
 
-### 🔹 Day 21 (June 17, 2026)
+### 🔹 Day 15 (June 17, 2026)
 * **Focus:** Incident Response Fundamentals 🛡️
 * **Activities:** * Successfully completed the course "Resposta a Incidentes de Segurança" on the NAU platform.
   * Reviewed core concepts of incident handling, containment, and mitigation strategies.
 * **Key Takeaway:** Proud to lock in another official certification! This course bridges the gap between procedural response and technical security, strengthening my foundations for future DFIR opportunities while balancing my MSc commitments.
+
+### 🔹 Day 16 (June 18, 2026)
+* **Focus:** Cybersecurity Architecture & Incident Response 🌐
+* **Activities:** 
+  * Watched and analyzed the IBM Technology session: "Cybersecurity Architecture: Response".
+  * Reviewed key metrics in incident handling, specifically MTTI (Mean Time to Identify) and MTTC (Mean Time to Contain).
+  * Studied the evolution from manual IR triage to modern SOAR (Security Orchestration, Automation, and Response) workflows, dynamic playbooks, and compliance challenges like GDPR.
+* **Key Takeaway:** Understanding the operational gap between detection and containment is crucial for DFIR. This high-level architectural view connects the dots perfectly before my MSc exam tomorrow. Ready to close this week strong!
 
