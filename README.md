@@ -1,4 +1,3 @@
-
 # 365 Days of Cybersecurity & Digital Forensics
 
 **Patrícia Costa | MSc Forensic Sciences (FMUP) | GitHub**
@@ -10,7 +9,7 @@ I combine a solid background in Forensic Sciences (ongoing MSc at FMUP) with tec
 📊 **Current Progress**
 | Area | Status | Days (goal) | Main Focus | Progress |
 | :--- | :--- | :--- | :--- | :--- |
-| Cybersecurity Fundamentals | 🟢 In progress | 21 / 180 | Cisco Junior Analyst + ISC2 CC | 2% |
+| Cybersecurity Fundamentals | 🟢 In progress | 17 / 180 | Cisco Junior Analyst + ISC2 CC | 2% |
 | Digital Forensics | 🟡 Planned | 0 / 180 | DFIR + OSINT + Autopsy | 0% |
 
 * **Commitment:** 1h30/day, 6 days/week
@@ -19,26 +18,30 @@ I combine a solid background in Forensic Sciences (ongoing MSc at FMUP) with tec
 
 🔒 **Phase 1 – Cybersecurity Fundamentals (180 days) ⭐ PRIORITY**
 
-* **Status:** In progress (Day 21/180)
+* **Status:** In progress (Day 17/180)
 * **Objective:** Develop solid technical skills in information security to support specialisation in Digital Forensics.
 
-### Main Training
+### Main Training & Certifications
+* 🏆 **NAU – Resposta a Incidentes de Segurança** — ✅ Completed! (June 17, 2026) 🛡️
 * 🎓 **ISC2 Certified in Cybersecurity (CC)** — Domain 1 Completed! 🚀
-* 🎓 **Cisco Junior Cybersecurity Analyst** — In Progress (Section 1.2.4)
+* 🎓 **Cisco Junior Cybersecurity Analyst** — 🟢 In Progress (Section 1.2.4)
   * Introduction to Cybersecurity
   * Networking Basics & Network Security
   * Security Concepts & Threat Analysis
   * OS Fundamentals (Linux + Windows)
-* 🎓 **Cisco Ethical Hacker** — Planned (To understand attack vectors)
+* 🎓 **Cisco Cybersecurity Defense Analyst Path** — ⏳ Planned (Next step: SOC skills & Splunk Enterprise Security)
+* 🎓 **Cisco Ethical Hacker** — ⏳ Planned (To understand attack vectors)
 
-### Complementary Skills
+### Complementary Skills & Compliance
 * 🐧 **Linux Essentials** (Command line fluency, file systems, permissions)
 * 🐍 **Python for Security** (Scripting for automation, parsing forensic logs)
 * 🌐 **Networking Fundamentals** (TCP/IP, DNS, Wireshark packet analysis)
+* ⚖️ **ISO/IEC 27701 (Privacy Information Management)** — 📑 Saved Resource (Mastermind Assurance - Data Privacy & GDPR Compliance)
 
 ### Goals for this phase
 * [ ] Complete ISC2 CC Certification 
 * [ ] Complete Cisco Junior Cybersecurity Analyst (100%)
+* [ ] Complete Cisco Cybersecurity Defense Analyst Path & Splunk basics
 * [ ] Master Linux command line for forensics
 * [ ] Build and document 5+ hands-on labs on GitHub
 
@@ -86,7 +89,7 @@ I combine a solid background in Forensic Sciences (ongoing MSc at FMUP) with tec
 
 "Digital forensic investigation requires dual competence: rigorous forensic knowledge (MSc) + solid technical skills (cybersecurity). This repository documents the building of that technical foundation."
 
-**Last updated:** May 19, 2026
+**Last updated:** June 18, 2026
 ---
 
 
