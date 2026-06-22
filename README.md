@@ -16,10 +16,10 @@ I combine a solid background in Forensic Sciences (ongoing MSc at FMUP) with tec
 
 ---
 
-🔒 **Phase 1 – Cybersecurity Fundamentals (180 days) ⭐ PRIORITY**
+🔒 **Track 1 – Cybersecurity Fundamentals**
 
-* **Status:** In progress (Day 16/180)
-* **Objective:** Develop solid technical skills in information security to support specialisation in Digital Forensics.
+* **Status:** In progress (Day 17/180)
+* **Objective:** Build the network and infrastructure security foundations required to understand modern digital attack vectors.
 
 ### Main Training & Certifications
 * 🏆 **NAU – Resposta a Incidentes de Segurança** — ✅ Completed! (June 17, 2026) 🛡️
@@ -29,67 +29,44 @@ I combine a solid background in Forensic Sciences (ongoing MSc at FMUP) with tec
   * Networking Basics & Network Security
   * Security Concepts & Threat Analysis
   * OS Fundamentals (Linux + Windows)
-* 🎓 **Cisco Cybersecurity Defense Analyst Path** — ⏳ Planned (Next step: SOC skills & Splunk Enterprise Security)
-* 🎓 **Cisco Ethical Hacker** — ⏳ Planned (To understand attack vectors)
+* 🎓 **Cisco Cybersecurity Defense Analyst Path** — ⏳ Planned (SOC skills & Splunk Enterprise Security)
 
-### Complementary Skills & Compliance
+### Core Technical Skills
 * 🐧 **Linux Essentials** (Command line fluency, file systems, permissions)
-* 🐍 **Python for Security** (Scripting for automation, parsing forensic logs)
 * 🌐 **Networking Fundamentals** (TCP/IP, DNS, Wireshark packet analysis)
-* ⚖️ **ISO/IEC 27701 (Privacy Information Management)** — 📑 Saved Resource (Mastermind Assurance - Data Privacy & GDPR Compliance)
-
-### Goals for this phase
-* [ ] Complete ISC2 CC Certification 
-* [ ] Complete Cisco Junior Cybersecurity Analyst (100%)
-* [ ] Complete Cisco Cybersecurity Defense Analyst Path & Splunk basics
-* [ ] Master Linux command line for forensics
-* [ ] Build and document 5+ hands-on labs on GitHub
-
-### Planned Labs
-| Lab | Description | Status |
-| :--- | :--- | :--- |
-| Network Analysis | Traffic capture and analysis with Wireshark | ⏳ Planned |
-| Linux Hardening | Secure Linux system configuration | ⏳ Planned |
-| Python Log Parser | Script for security log analysis | ⏳ Planned |
 
 ---
 
-🔍 **Phase 2 – Digital Forensics & Investigation (180 days)**
+🔍 **Track 2 – Digital Forensics & Digital Evidence Analysis ⭐ SPECIALIZATION**
 
-* **Status:** Planned (Target start: November 2026)
-* **Objective:** Specialise in digital forensic investigation, combining my MSc from FMUP with technical DFIR tools.
+* **Status:** In progress (Day 1/180)
+* **Objective:** Master digital forensic methodologies, chain of custody preservation, and data recovery techniques using professional DFIR tooling.
 
-### Study Areas
-* ⚖️ **Digital Evidence Fundamentals:** Chain of custody, forensic methodology, and legal reporting.
-* 💻 **Disk, Memory & File Analysis:** File systems (NTFS, FAT, ext4), timeline analysis, and carving.
-* 📱 **Mobile Forensics:** Introduction to mobile data extraction and artifacts.
-* 🕵️‍♂️ **OSINT:** Online investigation, open-source intelligence, and digital footprint tracking.
+### Active Study Areas
+* ⚖️ **Digital Evidence Fundamentals:** Chain of custody, legal reporting, and forensic methodology (FMUP alignment).
+* 💻 **File System Analysis:** NTFS, FAT32, and ext4 structures, MFT analysis, data carving, and timeline reconstruction.
+* 🕵️‍♂️ **OSINT:** Open-source intelligence, digital footprint tracking, and online investigation.
 
-### Core DFIR Tools to Learn
-* 🛠️ **Autopsy** (Main disk analysis tool)
-* 🛠️ **FTK Imager** (Forensic imaging)
-* 🛠️ **Volatility** (Memory forensics)
-* 🛠️ **Wireshark** (Network forensics)
-
-### Learning Resources
-* 📖 OpenLearn & Alison – Digital Forensics Introductions
-* 🕹️ TryHackMe – Cyber Defense & DFIR rooms
-* 📑 SANS Forensics Blog, Whitepapers & DFIR Cheat Sheets
+### Tooling & Practical Training
+* 🛠️ **Autopsy Forensic Browser** — 🟢 Learning deployment, ingestion, and artifact parsing.
+* 🛠️ **FTK Imager** (Forensic imaging & hashing)
+* 🛠️ **Volatility** (Memory forensics & RAM analysis)
 
 ---
 
-📂 **Featured Projects**
+📂 **Featured Projects & Labs**
 
-| Project | Description | Technologies | Status |
+| Project / Lab | Description | Technologies / Tools | Status |
 | :--- | :--- | :--- | :--- |
 | CyberSecurity Events Hub | HTML page with cybersecurity events | HTML5 | ✅ Completed |
-| Wireshark Lab | Network traffic capture and analysis | Wireshark | ⏳ Planned |
-| Python Log Analyzer | Script for security log parsing | Python | ⏳ Planned |
-| OSINT Investigation | Practical online investigation case | OSINT tools | ⏳ Planned |
+| Autopsy Disk Analysis Lab | Forensic analysis of a disk image, data carving, and timeline report | Autopsy | ⏳ Planned (Next) |
+| Wireshark Lab | Network traffic capture and malicious packet analysis | Wireshark | ⏳ Planned |
+| Python Log Analyzer | Script for parsing and extracting security alerts from logs | Python | ⏳ Planned |
+| OSINT Investigation | Practical online investigation and footprint analysis case | OSINT Tools | ⏳ Planned |
 
 "Digital forensic investigation requires dual competence: rigorous forensic knowledge (MSc) + solid technical skills (cybersecurity). This repository documents the building of that technical foundation."
 
-**Last updated:** June 18, 2026
+**Last updated:** June 22, 2026
 ---
 
 
