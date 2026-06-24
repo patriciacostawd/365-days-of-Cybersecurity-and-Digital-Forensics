@@ -16,10 +16,10 @@ I combine a solid background in Forensic Sciences (ongoing MSc at FMUP) with tec
 
 ---
 
-🔒 **Track 1 – Cybersecurity Fundamentals & Automation**
+🔒 **Track 1 – Full-Stack Development & Cybersecurity Foundations**
 
 * **Status:** In progress (Day 18/180)
-* **Objective:** Build network security foundations and develop automation scripts to parse data and identify security anomalies.
+* **Objective:** Master end-to-end software development to understand application architecture, database structures, and web vulnerabilities from the inside out.
 
 ### Main Training & Certifications
 * 🏆 **NAU – Resposta a Incidentes de Segurança** — ✅ Completed! 🛡️
