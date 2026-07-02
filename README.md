@@ -1,266 +1,167 @@
-🔍 Digital Forensics & Incident Response (DFIR) Learning Journal
+365 Days of Cybersecurity & Digital Forensics
+
+Patrícia Costa | MSc Forensic Sciences (FMUP) | GitHub
 
 🎯 Objective
 
-This repository documents my structured journey into Digital Forensics & Incident Response (DFIR), focusing on practical investigation skills, evidence handling, and technical analysis of cyber incidents.
+Document my daily learning journey in cybersecurity and digital forensics, to work as a Digital Forensics Analyst in a cybercrime context.
 
-The goal is to develop the ability to reconstruct digital incidents using real evidence, logs, disk artifacts, and network data — and to build a portfolio that demonstrates this competence to future employers.
+I combine a solid background in Forensic Sciences (ongoing MSc at FMUP) with technical skills in information security, networking, Linux, and digital investigation, creating a specialised profile for digital forensic analysis.
 
-🧭 Background
+📊 Current Progress
 
-I come from a multidisciplinary background in forensic sciences and software development, and I am transitioning into cybersecurity with a strong focus on DFIR and cybercrime investigation.
+AreaStatusDays (goal)Main FocusProgressCybersecurity Fundamentals🟢 In progress16 / 180Cisco Junior Analyst + ISC2 CC2%Digital Forensics🟡 Planned0 / 180DFIR + OSINT + Autopsy0%
 
-Transferable skills:
+Commitment: 1h30/day, 6 days/week
 
+🔒 Track 1 – Cybersecurity Foundations
 
-Forensic sciences → chain of custody principles, evidentiary rigor, methodical documentation, courtroom-oriented reporting mindset
-Software development → scripting/automation, comfort with tooling and version control, structured problem-solving, ability to read and reason about code (relevant for malware/log analysis)
+Status: In progress (Day 18/180)
 
+Objective: Master end-to-end software development to understand application architecture, database structures, and web vulnerabilities from the inside out.
 
-🧭 Target Certifications (Roadmap)
+Main Training & Certifications
 
-
-Short-term: eJPT (foundations in networking/pentesting context)
-Mid-term: GCFA or CHFI (core DFIR credentials)
-Long-term (optional): GNFA / GREM (network forensics / malware reverse engineering)
-
-
-🧱 Learning Structure (~120–150 Days)
-
-Timelines below are target ranges, not deadlines. Each phase closes only when its artifact is complete — I'd rather iterate on a phase than move on with shallow coverage.
-
-🟢 Phase 1 — Foundations (Days 1–35)
-
-Focus:
+🎓 freeCodeCamp — 🟢 In Progress (Scientific Computing with Python / Security Scripting)
+🎓 Cisco Junior Cybersecurity Analyst — 🟢 In Progress (Section 1.2.4)
+🎓 ISC2 Certified in Cybersecurity (CC) — ⏳ Planned
 
 
-Linux fundamentals (filesystem, permissions, processes, shell)
-Networking basics (TCP/IP, DNS, HTTP/S, packet structure)
-Python scripting for data analysis
+Core Technical Skills
 
 
-Skills:
+🐍 Python Automation: Log parsing, file hashing, and data extraction
+🐧 Linux Essentials & Networking: Command line fluency and TCP/IP analysis
 
 
-File system navigation & basic Linux forensics commands
-Log parsing basics
-Regex fundamentals
+✅ Success Criteria — mapped to active courses
+
+The point of each course below is to build a specific, checkable skill — not just "cover" a topic. Checked once I can do it without consulting notes.
+
+From Cisco Junior Cybersecurity Analyst (networking + SOC fundamentals):
 
 
-Artifact: Python log-parsing script (published, with its own README) that ingests raw logs and flags anomalies/IOCs — see Project 1.
-
-✅ Success Criteria
-
-Linux — I can, without consulting notes:
-
-
- Locate files modified in the last 24h on a system (find, stat)
- List running processes and spot a suspicious one by anomalous CPU/network activity (ps, top, lsof, ss)
- Read file permissions and identify anomalies (e.g. unexpected SUID binary)
- Filter relevant lines from a 10,000+ line log using grep/awk/sed combined
- Explain what /var/log/auth.log vs /var/log/syslog each record
+ Explain the TCP handshake (SYN/SYN-ACK/ACK) and recognize it in a packet capture
+ Identify the OSI/TCP-IP layer a given protocol operates at (DNS, HTTP, ARP, ICMP)
+ Read a firewall/IDS log entry and identify source, destination, and rule triggered
+ Explain the difference between IDS and IPS, and where each sits in a network
 
 
-Networking — I can, without consulting notes:
+From ISC2 CC (5 domains — security principles, IR/BC/DR, access control, network security, security operations):
 
 
- Explain the TCP handshake (SYN/SYN-ACK/ACK) and recognize it in a Wireshark capture
- Distinguish normal DNS traffic from DNS-tunneling patterns
- Read an HTTP/HTTPS request in a PCAP and extract source/dest IP, ports, payload (if unencrypted)
- Explain why HTTPS hides payload but not metadata (IP, timing, size)
- Identify a port scan in a firewall log (many ports, one IP, short time window)
+ State the CIA triad and give a concrete example of a control for each
+ Explain the difference between incident response, business continuity, and disaster recovery
+ Describe the basic incident response lifecycle (prepare → identify → contain → eradicate → recover → lessons learned) — this is the direct bridge to Track 2 forensic methodology
+ Explain least privilege and give an example of it misconfigured
 
 
-Python — I can, without consulting notes:
+From freeCodeCamp (Python / Security Scripting):
 
 
  Write a script that reads a log file line by line and extracts IPs via regex
  Use a dict/Counter to tally event frequency (e.g. failed logins per IP)
  Export structured results to CSV/JSON
- Handle large files without loading everything into memory (streaming/generators)
- Write a script that accepts CLI arguments (argparse)
+ Hash a file (MD5/SHA-256) and verify integrity programmatically — direct forensic use (evidence integrity)
 
 
-🧪 Validation Exercises
+From Linux Essentials & Networking (self-directed):
 
-ExerciseValidatesPass conditionOverTheWire "Bandit" (levels 0–15)Linux fundamentalsCompleted without googling a command every 2 minutes2–3 PCAPs from malware-traffic-analysis.net training exercisesNetworkingIdentify malicious traffic before reading the published write-upScript analyzing a simulated SSH auth logPythonCorrectly outputs: top 5 IPs by failed logins, peak activity windows, brute-force candidates (>N fails/IP in <X min)Redo the PCAP + script exercises from scratch, no reference to prior attemptRetentionFaster and more accurate than the first attempt
 
-🗓️ Suggested Weekly Breakdown
+ Locate files modified in the last 24h on a system (find, stat)
+ List running processes and spot a suspicious one by anomalous CPU/network activity (ps, top, lsof, ss)
+ Filter relevant lines from a large log using grep/awk/sed combined
 
-WeekFocusDone when1–2Linux + BanditBandit 0–15 completed unaided3Networking theory + Wireshark basicsCan annotate a simple PCAP field by field4Python scriptingLog analysis script (Project 1) runs cleanly on a real log5ConsolidationRedo PCAP + script exercises from scratch — faster/cleaner than before
 
-🟡 Phase 2 — Core DFIR, Iteration 1 (Days 36–70)
+🔍 Track 2 – Digital Forensics & Digital Evidence Analysis ⭐ SPECIALIZATION
 
-Focus:
+Status: In progress (Day 2/180)
 
+Objective: Master digital forensic methodologies, chain of custody preservation, and data recovery techniques using professional DFIR tooling.
 
-Disk forensics (Autopsy) on a public sample image
-Memory forensics fundamentals (Volatility) — moved up from "future"
-Log correlation basics
+Active Study Areas
 
 
-Skills:
+🎓 Udemy: Digital Forensics Investigation Process – The Big Picture — 🟢 In Progress (Methodology & Legal Concepts)
+⚖️ Digital Evidence Fundamentals: Chain of custody and forensic reporting (FMUP alignment)
+💻 File System Analysis: Artifact parsing, data carving, and timeline reconstruction using Autopsy
 
 
-Timeline reconstruction (disk-level)
-Artifact analysis (registry, browser history, deleted files)
-Basic memory triage (process list, network connections in memory dump)
+✅ Success Criteria — mapped to active study areas
 
+From Udemy DFIR course (methodology & legal concepts):
 
-Artifact: Written case walk-up using a public CFReDS or Digital Corpora image — see Project 2.
 
-🟡 Phase 2 — Core DFIR, Iteration 2 (Days 71–100)
+ Explain chain of custody end-to-end and identify a break in it given a scenario
+ List the phases of a digital forensic investigation (acquisition → preservation → analysis → reporting) and what can invalidate evidence at each phase
+ Explain the difference between a forensic image and a simple file copy, and why it matters legally
 
-Focus:
 
+From Autopsy / File System Analysis:
 
-Network forensics (Wireshark) on public PCAP samples
-Correlating disk + memory + network artifacts for a single scenario
 
+ Build a timeline of file creation/modification/access from a disk image
+ Recover a deleted file from unallocated space in a sample image
+ Extract and interpret browser history / registry artifacts relevant to a scenario
 
-Skills:
 
+📂 Featured Projects & Labs
 
-PCAP triage and suspicious-flow identification
-Cross-source timeline correlation
-IOC extraction and structuring (CSV/STIX-like format)
+Project / LabDescriptionTechnologies / ToolsStatusCyberSecurity Events HubHTML page with cybersecurity eventsHTML5 / CSS3✅ CompletedPython Log AnalyzerScript developed via freeCodeCamp logic to parse security logsPython⏳ PlannedAutopsy Disk Analysis LabForensic analysis of a disk image, data carving, and timeline reportAutopsy⏳ PlannedWireshark LabNetwork traffic capture and malicious packet analysisWireshark⏳ Planned
 
+📂 Datasets & Sources (for upcoming labs)
 
-Artifact: PCAP analysis write-up — see Project 3.
 
-🔴 Phase 3 — Incident Simulation (Days 101–130+)
-
-Focus:
-
-
-End-to-end incident investigation combining disk, memory, network, and log evidence
-Professional forensic report writing
-Evidence correlation across sources into a single coherent timeline
-
-
-Skills:
-
-
-Full case analysis
-IOC extraction and threat-actor behavior mapping
-Professional forensic reporting (executive summary + technical appendix)
-
-
-Artifact: Full DFIR case study with anonymized PDF report — see Project 4.
-
-🧪 Projects
-
-🔍 Project 1 — Log Analysis (Python)
-
-Description: Analysis of system logs to detect anomalies and extract indicators of compromise (IOCs).
-
-Tools: Python, Regex, CSV/JSON parsing
-
-Dataset: Synthetic/sample logs (source TBD — e.g. sample Apache/auth logs)
-
-Deliverable: Script + README explaining detection logic and sample findings
-
-Status: In progress
-
-💾 Project 2 — Disk Forensics Case (Autopsy)
-
-Description: Forensic analysis of a disk image including file recovery, timeline analysis, and artifact extraction.
-
-Tools: Autopsy, Timeline analysis
-
-Dataset: Public sample image (CFReDS or Digital Corpora — to be selected)
-
-Deliverable: Written case walk-through (methodology, findings, screenshots, conclusions)
-
-Status: Planned
-
-🌐 Project 3 — Network Traffic Analysis
-
-Description: Analysis of PCAP files to identify suspicious network activity and reconstruct events.
-
-Tools: Wireshark
-
-Dataset: Public PCAP sample (e.g. malware-traffic-analysis.net)
-
-Deliverable: Traffic analysis report with identified IOCs and reconstructed event sequence
-
-Status: Planned
-
-🧠 Project 4 — Full DFIR Case Study
-
-Description: End-to-end investigation combining disk, network, and log evidence.
-
-Tools: Autopsy, Wireshark, Volatility, Python
-
-Dataset: Combination of public samples assembled into a single scenario
-
-Outcome:
-
-
-Full forensic report (executive summary + technical detail)
-IOC extraction
-Incident timeline
-
-
-Status: Planned
-
-📂 Datasets & Sources
-
-Public, legally usable datasets used throughout this journal:
-
-
-CFReDS (NIST) — https://cfreds.nist.gov/ — standard disk/memory images for training
+CFReDS (NIST) — https://cfreds.nist.gov/ — disk/memory images for the Autopsy lab
 Digital Corpora — https://digitalcorpora.org/ — disk images, memory dumps, scenario data
-Malware-Traffic-Analysis.net — PCAP samples with known malicious traffic
-DFIR.training — curated list of practice datasets and CTF-style exercises
-Volatility Foundation sample memory images — for memory forensics practice
+Malware-Traffic-Analysis.net — PCAP samples with known malicious traffic, for the Wireshark lab
+DFIR.training — curated practice datasets and CTF-style exercises
 
 
-(List will be updated with exact dataset names/versions as each project starts.)
-
-🛠️ Tools & Technologies
-
-
-Linux (Ubuntu / Kali basics)
-Python
-Wireshark
-Autopsy
-Volatility
-Sysinternals
-Regex
-JSON / CSV analysis
-
-
-📊 Progress Tracking
-
-AreaStatusLinux🟡 In progressNetworking🟡 In progressPython🟡 In progressDisk Forensics⏳ Not startedMemory Forensics⏳ Not startedNetwork Forensics⏳ Not startedIncident Response⏳ Not started
+(To be finalized as each lab starts — exact dataset/version noted in the corresponding Progress Log entry.)
 
 📝 Progress Log
 
-Dated entries documenting concrete work done — not just topics studied. Each entry should answer: what did I do, what did I learn/get stuck on, what's next.
+Dated entries documenting concrete work done — not just topics covered. Keeps the % progress above honest.
 
 
-Format suggestion per entry:
+Format:
 [YYYY-MM-DD] — Title
 
 
-Did: what was actually done (exercise, script, case)
+Did: what was actually done (course section, exercise, script, case)
 Result: outcome / what worked
 Stuck on / learned: honest note on gaps or insights
 Next: immediate next step
 
 
-<!-- Example entry — replace with real ones as you go
-**[2026-07-02] — Bandit levels 0–5**
-- **Did:** Completed OverTheWire Bandit levels 0–5.
-- **Result:** All passed unaided except level 4 (needed a hint on `file` command usage).
-- **Stuck on / learned:** Forgot `find -perm` syntax, had to look it up — added to personal cheat sheet.
-- **Next:** Levels 6–10.
--->
-📌 Philosophy
 
-"Digital forensics is not about tools. It is about reconstructing truth from fragmented digital evidence."
+
+<!-- Example — replace with real entries as you go
+**[2026-07-02] — Cisco Junior Analyst, Section 1.2.4**
+- **Did:** Completed section on TCP/IP layer functions.
+- **Result:** Passed the section quiz, no major issues.
+- **Stuck on / learned:** Kept confusing session vs transport layer responsibilities — made a diagram to fix it.
+- **Next:** Section 1.3, ISC2 CC Domain 1 in parallel.
+-->
+📅 Monthly Recap
+
+
+Planned vs actual: what the 180-day tracks projected vs what really happened
+Adjustment: any change to pace or course order
+Confidence check: which success criteria (above) are genuinely met, not just "covered"
+
+
+🧭 Target Certifications (beyond current courses)
+
+
+Mid-term: GCFA or CHFI (core DFIR credentials, once Track 2 fundamentals are solid)
+Long-term (optional): GNFA / GREM (network forensics / malware reverse engineering)
+
+
+
+"Digital forensic investigation requires dual competence: rigorous forensic knowledge (MSc) + solid technical skills (cybersecurity & automation). This repository documents the building of that technical foundation."
 
 ⚠️ Disclaimer
 
-All investigations in this repository are performed on simulated, synthetic, or intentionally publicly-provided datasets, for educational purposes only. No real, private, or unauthorized data is used at any stage.
+All investigations and labs in this repository are performed on simulated, synthetic, or intentionally publicly-provided datasets, for educational purposes only. No real, private, or unauthorized data is used at any stage.
