@@ -1,62 +1,157 @@
-# 365 Days of Cybersecurity & Digital Forensics
+🔍 365 Days of Cybersecurity & Digital Forensics
 
-**Patrícia Costa | MSc Forensic Sciences (FMUP) | GitHub**
+Patrícia Costa | MSc Forensic Sciences (FMUP) | DFIR Portfolio
 
-🎯 **Objective**
-Document my daily learning journey in cybersecurity and digital forensics, to work as a Digital Forensics Analyst in a cybercrime context.
-I combine a solid background in Forensic Sciences (ongoing MSc at FMUP) with technical skills in information security, networking, Linux, and digital investigation, creating a specialised profile for digital forensic analysis.
+🧠 Overview
 
-📊 **Current Progress**
-| Area | Status | Days (goal) | Main Focus | Progress |
-| :--- | :--- | :--- | :--- | :--- |
-| Cybersecurity Fundamentals | 🟢 In progress | 16 / 180 | Cisco Junior Analyst + ISC2 CC | 2% |
-| Digital Forensics | 🟡 Planned | 0 / 180 | DFIR + OSINT + Autopsy | 0% |
+This repository documents my structured journey into Digital Forensics & Incident Response (DFIR), with a strong focus on practical investigation, evidence analysis, and cyber incident reconstruction.
 
-* **Commitment:** 1h30/day, 6 days/week
+The goal is to develop job-ready skills for:
 
----
+Digital Forensics Analyst
+Incident Response (SOC / Blue Team)
+Cybercrime & cyber investigation environments
 
-🔒 **Track 1 – Full-Stack Development & Cybersecurity Foundations**
+This is a practice-first portfolio, focused on real forensic artifacts rather than theoretical study.
 
-* **Status:** In progress (Day 18/180)
-* **Objective:** Master end-to-end software development to understand application architecture, database structures, and web vulnerabilities from the inside out.
+🎯 Objective
 
-### Main Training & Certifications
-* 🏆 **NAU – Resposta a Incidentes de Segurança** — ✅ Completed! 🛡️
-* 🎓 **freeCodeCamp** — 🟢 In Progress (Scientific Computing with Python / Security Scripting)
-* 🎓 **Cisco Junior Cybersecurity Analyst** — 🟢 In Progress (Section 1.2.4)
-* 🎓 **ISC2 Certified in Cybersecurity (CC)** — ⏳ Planned
+Develop the ability to:
 
-### Core Technical Skills
-* 🐍 **Python Automation:** Log parsing, file hashing, and data extraction.
-* 🐧 **Linux Essentials & Networking:** Command line fluency and TCP/IP analysis.
+Investigate cyber incidents using digital evidence
+Analyze logs, disk images, and network traffic
+Reconstruct timelines of digital events
+Extract Indicators of Compromise (IOCs)
+Produce structured forensic reports
+🧭 Learning Approach
 
----
+Learn → Apply → Investigate → Document
 
-🔍 **Track 2 – Digital Forensics & Digital Evidence Analysis ⭐ SPECIALIZATION**
+Each concept is immediately applied through hands-on labs using simulated or publicly available forensic datasets.
 
-* **Status:** In progress (Day 2/180)
-* **Objective:** Master digital forensic methodologies, chain of custody preservation, and data recovery techniques using professional DFIR tooling.
+🧱 Learning Structure (90 Days)
+🟢 Phase 1 — Core Technical Foundations
 
-### Active Study Areas
-* 🎓 **Udemy: Digital Forensics Investigation Process - The Big Picture** — 🟢 In Progress (Methodology & Legal Concepts)
-* ⚖️ **Digital Evidence Fundamentals:** Chain of custody and forensic reporting (FMUP alignment).
-* 💻 **File System Analysis:** Artifact parsing, data carving, and timeline reconstruction using **Autopsy**.
+Focus: Operational readiness
 
----
+Topics
 
-📂 **Featured Projects & Labs**
+Linux fundamentals (CLI, permissions, processes)
+Networking fundamentals (TCP/IP, DNS, HTTP/S)
+Python scripting for data processing and automation
 
-| Project / Lab | Description | Technologies / Tools | Status |
-| :--- | :--- | :--- | :--- |
-| CyberSecurity Events Hub | HTML page with cybersecurity events | HTML5 / CSS3 | ✅ Completed |
-| Python Log Analyzer | Script developed via freeCodeCamp logic to parse security logs | Python | ⏳ Planned |
-| Autopsy Disk Analysis Lab | Forensic analysis of a disk image, data carving, and timeline report | Autopsy | ⏳ Planned |
-| Wireshark Lab | Network traffic capture and malicious packet analysis | Wireshark | ⏳ Planned |
+Outcomes
 
-"Digital forensic investigation requires dual competence: rigorous forensic knowledge (MSc) + solid technical skills (cybersecurity & automation). This repository documents the building of that technical foundation."
+Confident Linux navigation
+Understanding of network flows
+Basic automation of data parsing tasks
+🟡 Phase 2 — Digital Forensics Fundamentals
 
-**Last updated:** June 24, 2026
----
+Focus: Introduction to forensic analysis
 
+Topics
+
+Disk forensics (Autopsy)
+Network forensics (Wireshark)
+Log analysis and correlation
+
+Outcomes
+
+Identification of forensic artifacts
+Timeline reconstruction
+Basic incident reconstruction workflows
+🔴 Phase 3 — Incident Investigation & Analysis
+
+Focus: End-to-end investigations
+
+Topics
+
+Multi-source evidence analysis (logs, disk, network)
+IOC extraction and validation
+Incident timeline reconstruction
+Forensic reporting
+
+Outcomes
+
+Full incident analysis capability
+Structured forensic reasoning
+Professional reporting skills
+🧪 Practical Projects
+🔍 Log Analysis (Python)
+
+Objective: Detect anomalies and extract IOCs from system logs
+
+Skills
+
+Log parsing
+Regex
+Data extraction & structuring
+
+Tools
+
+Python
+🌐 Network Traffic Analysis (Wireshark)
+
+Objective: Analyze PCAP files and reconstruct network activity
+
+Skills
+
+Packet inspection
+Protocol analysis
+Traffic pattern recognition
+
+Tools
+
+Wireshark
+💾 Disk Forensics Case Study (Autopsy)
+
+Objective: Perform forensic analysis of a disk image
+
+Skills
+
+Artifact extraction
+Timeline reconstruction
+File system analysis
+
+Tools
+
+Autopsy
+🧠 Full DFIR Incident Investigation
+
+Objective: End-to-end cyber incident simulation
+
+Deliverables
+
+Incident timeline
+Evidence correlation
+IOC extraction
+Final forensic report
+🛠️ Tools & Technologies
+Linux (Ubuntu)
+Python
+Wireshark
+Autopsy
+Regex
+JSON / CSV processing
+Windows artifacts (basic analysis)
+📊 Progress Tracking
+Area	Status
+Linux	In progress
+Networking	In progress
+Python scripting	In progress
+Log analysis	Planned
+Network forensics	Planned
+Disk forensics	Planned
+Incident response	Planned
+📌 Core Principle
+
+“Digital forensics is the discipline of reconstructing events from digital evidence with accuracy, integrity, and reproducibility.”
+
+⚠️ Ethical Notice
+
+All analysis in this repository is performed using simulated environments, educational datasets, or publicly available forensic materials. No real-world unauthorized data is used.
+
+🚀 Career Goal
+
+To develop into a Digital Forensics & Incident Response Analyst, contributing to cybercrime investigation and security incident response.
 
