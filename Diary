@@ -1,116 +1,181 @@
-## 🗓️ May 2026
+🗓️ May 2026
 
-### 🔹 Day 1 (May 17)
-* **Focus:** ISC2 Certified in Cybersecurity (CC)
-* **Time Invested:** 200 minutes 🚀
-* **Activities:** Completed the **Pre-Assessment** exam to evaluate my baseline knowledge across the 5 certification domains.
-* **Notes:** Off to a strong start, focusing on theoretical fundamentals to identify areas that need more attention.
+Note: "Day" refers to study sessions, not consecutive calendar days — not every day is dedicated to studying due to MSc commitments.
 
-### 🔹 Day 2 (May 18)
-* **Focus:** Security Architecture (IBM) & Cisco Networking Academy Fundamentals
-* **Time Invested:** ~90 minutes
-* **Activities:** * Completed a 45-minute ISC2 study block ahead of schedule.
-  * Watched the IBM Technology brief on the **5 Pillars of Security Architecture** (Defence in Depth, Least Privilege, Separation of Duties, Secure by Design, and the KISS Principle) and took handwritten notes.
-  * Officially started the Cisco Networking Academy module, progressing through the curriculum and stopping exactly at **Section 1.2.4**.
-* **Key Takeaway:** Foundational networking concepts are coming back to mind. Combining the theoretical security models from ISC2 with Cisco's structural approach is making the learning process much more cohesive.
 
-### 🔹 Day 3 (May 19)
-* **Focus:** ISC2 Domain 1 & Cisco Networking Academy Module 2
-* **Time Invested:** ~120 minutes 🚀
-* **Activities:** * Watched the second video from the IBM Technology Security Architecture series.
-  * Successfully completed the entire **Domain 1** of the ISC2 Certified in Cybersecurity (CC) curriculum.
-  * Completed **Module 2** of the Cisco Networking Academy course.
-* **Key Takeaway:** Finished the first major milestone for ISC2! Moving from foundational theory into actual network configurations in Cisco is helping me connect how security policies are enforced at the hardware level.
+🔹 Day 1 (May 17)
+Focus: ISC2 Certified in Cybersecurity (CC)
+Time Invested: 200 minutes 🚀
+Activities:
+Completed the Pre-Assessment exam to evaluate my baseline knowledge across the 5 certification domains.
+Key Takeaway: Off to a strong start, focusing on theoretical fundamentals to identify areas that need more attention.
+Next: Begin ISC2 Domain content and start Cisco Networking Academy fundamentals.
 
-### 🔹 Day 4 (May 20)
-* **Focus:** Knowledge Review & Active Recall
-* **Time Invested:** 60 minutes ⏱️
-* **Activities:** * Watched the third video from the IBM Technology Security Architecture series.
-  * Conducted a comprehensive review of all concepts learned over the last 3 days (ISC2 Domain 1 and Cisco Modules 1 & 2).
-* **Notes:** Balanced today's schedule to prioritise my Master's thesis while maintaining my daily cybersecurity learning habit. Short, focused review sessions are key to long-term retention.
 
-### 🔹 Day 5 (May 23)
-* **Focus:** Knowledge Review & Security Architecture
-* **Time Invested:** 60 minutes ⏱️
-* **Activities:** * Watched the third video from the IBM Technology Security Architecture series.
-  * Conducted a comprehensive active recall review of the concepts covered during the week (ISC2 Domain 1 and Cisco fundamentals).
-* **Notes:** Maintained the study habit with a short, highly-focused session to prioritize Master's thesis writing.
+🔹 Day 2 (May 18)
+Focus: Security Architecture (IBM) & Cisco Networking Academy Fundamentals
+Time Invested: ~90 minutes
+Activities:
+Completed a 45-minute ISC2 study block ahead of schedule.
+Watched the IBM Technology brief on the 5 Pillars of Security Architecture (Defence in Depth, Least Privilege, Separation of Duties, Secure by Design, and the KISS Principle) and took handwritten notes.
+Officially started the Cisco Networking Academy module, progressing through the curriculum and stopping exactly at Section 1.2.4.
+Key Takeaway: Foundational networking concepts are coming back to mind. Combining the theoretical security models from ISC2 with Cisco's structural approach is making the learning process much more cohesive.
+Next: Continue Cisco Module 2 and start ISC2 Domain 1.
 
-### 🔹 Day 6 (May 24)
-* **Focus:** Cisco Module 2, Linux Environments & ISC2 Domain 2
-* **Time Invested:** ~150 minutes 🚀🔥
-* **Activities:** * Successfully completed **Module 2** of the Cisco curriculum.
-  * Hands-on Lab: Deployed a Linux operating system within a Virtual Machine (VM) environment and explored its Graphical User Interface (GUI).
-  * Started **Domain 2** of the ISC2 Certified in Cybersecurity (CC) course, focusing on Incident Response, Business Continuity, and Disaster Recovery concepts.
-* **Key Takeaway:** Setting up virtual environments is a critical milestone for digital forensics. Additionally, learning ISC2's Incident Response framework helps me understand exactly where a forensic analyst fits into the chain of events after a cyber breach occurs.
 
-### 🔹 Day 7 (May 25)
-* **Focus:** Cisco Module 3, ISC2 Domain 3 (50%) & IBM Security Architecture
-* **Time Invested:** ~240 minutes 🚀
-* **Activities:** * Successfully completed **Module 3** of the Cisco Junior Cybersecurity Analyst curriculum.
-  * Progressed through **Domain 3 (Network Security & Access Controls)** of the ISC2 Certified in Cybersecurity (CC), reaching the 50% milestone.
-  * Watched the 5 video from the IBM Technology Security Architecture series.
-* **Key Takeaway:** Dominated network fundamentals and access control concepts today. Understanding how logical and physical access control systems work is foundational for DFIR, as auditing access logs is often the first step in investigating an incident or a data breach.
+🔹 Day 3 (May 19)
+Focus: ISC2 Domain 1 & Cisco Networking Academy Module 2
+Time Invested: ~120 minutes 🚀
+Activities:
+Watched the second video from the IBM Technology Security Architecture series.
+Successfully completed the entire Domain 1 of the ISC2 Certified in Cybersecurity (CC) curriculum.
+Completed Module 2 of the Cisco Networking Academy course.
+Key Takeaway: Finished the first major milestone for ISC2! Moving from foundational theory into actual network configurations in Cisco is helping me connect how security policies are enforced at the hardware level.
+Next: Review Domain 1 and Cisco Modules 1-2 before progressing further.
 
-### 🔹 Day 8 (May 27)
-* **Focus:** Health & Recovery (Sick Leave) 🤒
-* **Time Invested:** 0 minutes
-* **Activities:** * Off-day due to a severe flu. Prioritizing rest and medication recovery to ensure a sharp return to technical tasks.
-* **Notes:** In cybersecurity, human factor resilience matters. Recognizing when to pause for physical recovery is essential for long-term consistency.
 
-### 🔹 Day 9 (Today - May 28)
-* **Focus:** Low-Energy Technical Content & Recovery 🤒
-* **Time Invested:** ~45 minutes (Passive Study)
-* **Activities:** * Switched to passive learning due to flu medication side effects.
-  * Watched cybersecurity architecture and digital forensics concepts conceptually (IBM series/conceptual videos).
-* **Notes:** Adapted the study strategy to match my physical limits. Kept the streak alive without forcing intense cognitive tasks.
+🔹 Day 4 (May 20)
+Focus: Knowledge Review & Active Recall
+Time Invested: 60 minutes ⏱️
+Activities:
+Watched the third video from the IBM Technology Security Architecture series.
+Conducted a comprehensive review of all concepts learned over the last 3 days (ISC2 Domain 1 and Cisco Modules 1 & 2).
+Key Takeaway: Balanced today's schedule to prioritise my Master's thesis while maintaining my daily cybersecurity learning habit. Short, focused review sessions are key to long-term retention.
+Next: Continue active recall review before moving to new material.
 
-### 🔹 Day 10 (June 6, 2026)
-* **Focus:** Course Completion & Fundamentals Validation 🎓
-* **Time Invested:** ~2 hours (Final review and exam)
-* **Activities:** * Successfully completed the "Fundamentos de Cibersegurança" course provided by NAU / CNCS.
-  * Reviewed core concepts regarding information security, threat landscapes, and national cybersecurity guidelines.
-* **Key Takeaway:** Secured an official national certification in cybersecurity fundamentals on my 10th day of the challenge, strengthening the theoretical foundation required for DFIR.
 
-### 🔹 Day 11 (June 7, 2026)
-* **Focus:** Cybersecurity Best Practices & Course Completion 🎓
-* **Time Invested:** ~1.5 hours
-* **Activities:** * Completed the "Introdução às Boas Práticas de Cibersegurança" course by NAU / CNCS.
-  * Studied human-factor mitigation, operational security principles, and standard defense best practices.
-* **Key Takeaway:** Successfully balanced MSc academic obligations with technical milestones. Secured my second national certification, bridging the gap between theoretical security and forensic awareness.
+🔹 Day 5 (May 23)
+Focus: Knowledge Review & Security Architecture
+Time Invested: 60 minutes ⏱️
+Activities:
+Watched the third video from the IBM Technology Security Architecture series.
+Conducted a comprehensive active recall review of the concepts covered during the week (ISC2 Domain 1 and Cisco fundamentals).
+Key Takeaway: Maintained the study habit with a short, highly-focused session to prioritize Master's thesis writing.
+Next: Resume Cisco Module 2 and start ISC2 Domain 2.
 
-### 🔹 Day 12 (June 8, 2026)
-* **Focus:** Incident Response Fundamentals 🚨
-* **Time Invested:** ~1 hour
-* **Activities:** * Started the "Resposta a Incidentes de Cibersegurança" course by NAU / CNCS.
-  * Explored the two modules covering incident definitions, the lifecycle of a cyber attack, and preparation phases.
-* **Key Takeaway:** Pivoted directly into the core of DFIR domains. Understanding how incidents are handled operationally is essential for conducting effective digital forensics later on.
 
-### 🔹 Day 13 (June 9, 2026)
-* **Focus:** Incident Response - Module 3 🚨
-* **Time Invested:** ~1 hour
-* **Activities:** * Completed Module 3 to 5 of the "Resposta a Incidentes de Cibersegurança" course (NAU / CNCS).
-  * Focused on incident containment, eradication, and post-incident lessons learned phases.
-* **Key Takeaway:** Maintained core cybersecurity consistency while strategically managing time to transition into academic monograph writing.
+🔹 Day 6 (May 24)
+Focus: Cisco Module 2, Linux Environments & ISC2 Domain 2
+Time Invested: ~150 minutes 🚀🔥
+Activities:
+Successfully completed Module 2 of the Cisco curriculum.
+Hands-on Lab: Deployed a Linux operating system within a Virtual Machine (VM) environment and explored its Graphical User Interface (GUI).
+Started Domain 2 of the ISC2 Certified in Cybersecurity (CC) course, focusing on Incident Response, Business Continuity, and Disaster Recovery concepts.
+Key Takeaway: Setting up virtual environments is a critical milestone for digital forensics. Additionally, learning ISC2's Incident Response framework helps me understand exactly where a forensic analyst fits into the chain of events after a cyber breach occurs.
+Next: Begin Cisco Module 3 and continue ISC2 Domain 3.
 
-### 🔹 Day 14 (June 10, 2026)
-* **Focus:** Digital Forensics Modules & Udemy Specialization Roadmap 🔎
-* **Time Invested:** ~3 hours
-* **Activities:** * Completed Modules 6 & 7 of the NAU/CNCS course, focusing deeply on digital forensics core concepts.
-  * Mapped out the next practical steps by enrolling in 4 specialized Udemy courses: "Digital Forensics Investigation Process", "Computer Forensics: Hands-on Lab", "Network Forensics", and "Hard Disk Forensics".
-* **Key Takeaway:** Hit the 2-week mark of the challenge by successfully pivoting from high-level security concepts into specialized DFIR (Digital Forensics & Incident Response) training.
 
-### 🔹 Day 15 (June 17, 2026)
-* **Focus:** Incident Response Fundamentals 🛡️
-* **Activities:** * Successfully completed the course "Resposta a Incidentes de Segurança" on the NAU platform.
-  * Reviewed core concepts of incident handling, containment, and mitigation strategies.
-* **Key Takeaway:** Proud to lock in another official certification! This course bridges the gap between procedural response and technical security, strengthening my foundations for future DFIR opportunities while balancing my MSc commitments.
+🔹 Day 7 (May 25)
+Focus: Cisco Module 3, ISC2 Domain 3 (50%) & IBM Security Architecture
+Time Invested: ~240 minutes 🚀
+Activities:
 
-### 🔹 Day 16 (June 18, 2026)
-* **Focus:** Cybersecurity Architecture & Incident Response 🌐
-* **Activities:** 
-  * Watched and analyzed the IBM Technology session: "Cybersecurity Architecture: Response".
-  * Reviewed key metrics in incident handling, specifically MTTI (Mean Time to Identify) and MTTC (Mean Time to Contain).
-  * Studied the evolution from manual IR triage to modern SOAR (Security Orchestration, Automation, and Response) workflows, dynamic playbooks, and compliance challenges like GDPR.
-* **Key Takeaway:** Understanding the operational gap between detection and containment is crucial for DFIR. This high-level architectural view connects the dots perfectly before my MSc exam tomorrow. Ready to close this week strong!
+Successfully completed Module 3 of the Cisco Junior Cybersecurity Analyst curriculum.
+Progressed through Domain 3 (Network Security & Access Controls) of the ISC2 Certified in Cybersecurity (CC), reaching the 50% milestone.
+Watched the 5th video from the IBM Technology Security Architecture series.
+Key Takeaway: Dominated network fundamentals and access control concepts today. Understanding how logical and physical access control systems work is foundational for DFIR, as auditing access logs is often the first step in investigating an incident or a data breach.
+Next: Rest and recover; resume with lighter material.
+
+
+🔹 Day 8 (May 27)
+Focus: Health & Recovery (Sick Leave) 🤒
+Time Invested: 0 minutes
+Activities:
+Off-day due to a severe flu. Prioritizing rest and medication recovery to ensure a sharp return to technical tasks.
+Key Takeaway: In cybersecurity, human factor resilience matters. Recognizing when to pause for physical recovery is essential for long-term consistency.
+Next: Switch to passive, low-energy learning if still recovering.
+
+
+🔹 Day 9 (May 28)
+Focus: Low-Energy Technical Content & Recovery 🤒
+Time Invested: ~45 minutes (Passive Study)
+Activities:
+Switched to passive learning due to flu medication side effects.
+Watched cybersecurity architecture and digital forensics concepts conceptually (IBM series/conceptual videos).
+Key Takeaway: Adapted the study strategy to match my physical limits. Kept the streak alive without forcing intense cognitive tasks.
+Next: Resume active study once fully recovered.
+
+
+
+🗓️ June 2026
+
+🔹 Day 10 (June 6)
+Focus: Course Completion & Fundamentals Validation 🎓
+Time Invested: ~2 hours (Final review and exam)
+Activities:
+Successfully completed the "Fundamentos de Cibersegurança" course provided by NAU / CNCS.
+Reviewed core concepts regarding information security, threat landscapes, and national cybersecurity guidelines.
+Key Takeaway: Secured an official national certification in cybersecurity fundamentals on my 10th study session, strengthening the theoretical foundation required for DFIR.
+Next: Start "Introdução às Boas Práticas de Cibersegurança" course.
+
+
+🔹 Day 11 (June 7)
+Focus: Cybersecurity Best Practices & Course Completion 🎓
+Time Invested: ~1.5 hours
+Activities:
+Completed the "Introdução às Boas Práticas de Cibersegurança" course by NAU / CNCS.
+Studied human-factor mitigation, operational security principles, and standard defense best practices.
+Key Takeaway: Successfully balanced MSc academic obligations with technical milestones. Secured my second national certification, bridging the gap between theoretical security and forensic awareness.
+Next: Begin "Resposta a Incidentes de Cibersegurança" course.
+
+
+🔹 Day 12 (June 8)
+Focus: Incident Response Fundamentals 🚨
+Time Invested: ~1 hour
+Activities:
+Started the "Resposta a Incidentes de Cibersegurança" course by NAU / CNCS.
+Explored the two modules covering incident definitions, the lifecycle of a cyber attack, and preparation phases.
+Key Takeaway: Pivoted directly into the core of DFIR domains. Understanding how incidents are handled operationally is essential for conducting effective digital forensics later on.
+Next: Continue with Modules 3-5 of the course.
+
+
+🔹 Day 13 (June 9)
+Focus: Incident Response - Modules 3-5 🚨
+Time Invested: ~1 hour
+Activities:
+Completed Modules 3 to 5 of the "Resposta a Incidentes de Cibersegurança" course (NAU / CNCS).
+Focused on incident containment, eradication, and post-incident lessons learned phases.
+Key Takeaway: Maintained core cybersecurity consistency while strategically managing time to transition into academic monograph writing.
+Next: Move into digital forensics-specific modules.
+
+
+🔹 Day 14 (June 10)
+Focus: Digital Forensics Modules & Udemy Specialization Roadmap 🔎
+Time Invested: ~3 hours
+Activities:
+Completed Modules 6 & 7 of the NAU/CNCS course, focusing deeply on digital forensics core concepts.
+Mapped out the next practical steps by enrolling in 4 specialized Udemy courses: "Digital Forensics Investigation Process", "Computer Forensics: Hands-on Lab", "Network Forensics", and "Hard Disk Forensics".
+Key Takeaway: Hit the 2-week mark of the challenge by successfully pivoting from high-level security concepts into specialized DFIR (Digital Forensics & Incident Response) training.
+Next: Complete "Resposta a Incidentes de Segurança" course.
+
+
+🔹 Day 15 (June 17)
+Focus: Incident Response Fundamentals 🛡️
+Time Invested: [add]
+Activities:
+Successfully completed the course "Resposta a Incidentes de Segurança" on the NAU platform.
+Reviewed core concepts of incident handling, containment, and mitigation strategies.
+Key Takeaway: Proud to lock in another official certification! This course bridges the gap between procedural response and technical security, strengthening my foundations for future DFIR opportunities while balancing my MSc commitments.
+Next: Study cybersecurity architecture response models ahead of MSc exam.
+
+
+🔹 Day 16 (June 18)
+Focus: Cybersecurity Architecture & Incident Response 🌐
+Time Invested: [add]
+Activities:
+Watched and analyzed the IBM Technology session: "Cybersecurity Architecture: Response".
+Reviewed key metrics in incident handling, specifically MTTI (Mean Time to Identify) and MTTC (Mean Time to Contain).
+Studied the evolution from manual IR triage to modern SOAR (Security Orchestration, Automation, and Response) workflows, dynamic playbooks, and compliance challenges like GDPR.
+Key Takeaway: Understanding the operational gap between detection and containment is crucial for DFIR. This high-level architectural view connects the dots perfectly before my MSc exam tomorrow. Ready to close this week strong!
+Next: Resume study after MSc exam period.
+
+🗓️ July 2026
+
+🔹 Day 17 (July 2)
+Focus: Python Fundamentals (freeCodeCamp) 🐍
+Time Invested: ~1 hour
+Activities:
+Started learning Python through freeCodeCamp, covering the basics of the language.
+Key Takeaway: Beginning to build programming fundamentals that will support future automation and analysis work in digital forensics.
+Next: Continue with the next Python module on freeCodeCamp.
 
